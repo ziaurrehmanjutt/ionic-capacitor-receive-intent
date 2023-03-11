@@ -8,3 +8,5 @@ const IntentReceived = registerPlugin<IntentReceivedPlugin>('IntentReceived', {
 
 export * from './definitions';
 export { IntentReceived };
+
+

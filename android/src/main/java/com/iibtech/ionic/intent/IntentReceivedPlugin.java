@@ -52,7 +52,7 @@ public class IntentReceivedPlugin extends Plugin {
                 extras.put(key, value);
             }
 
-            extras.put("other1", readItemAt(intent, type, 0));
+            extras.put("other", readItemAt(intent, type, 0));
             JSObject ret = new JSObject();
             ret.put("extras", extras);
 

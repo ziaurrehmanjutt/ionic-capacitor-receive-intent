@@ -1,11 +1,11 @@
-# ionic-capacitor-recieve-intent
+# ionic-capacitor-receive-intent
 
 Its Plugin
 
 ## Install
 
 ```bash
-npm install ionic-capacitor-recieve-intent
+npm install ionic-capacitor-receive-intent
 npx cap sync
 ```
 

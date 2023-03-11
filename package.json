@@ -1,5 +1,5 @@
 {
-  "name": "ionic-capacitor-recieve-intent",
+  "name": "ionic-capacitor-receive-intent",
   "version": "0.0.1",
   "description": "Its Plugin",
   "main": "dist/plugin.cjs.js",

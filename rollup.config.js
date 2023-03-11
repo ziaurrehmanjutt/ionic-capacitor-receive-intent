@@ -4,7 +4,7 @@ export default {
     {
       file: 'dist/plugin.js',
       format: 'iife',
-      name: 'capacitorIntentReceieved',
+      name: 'capacitorIntentReceived',
       globals: {
         '@capacitor/core': 'capacitorExports',
       },
